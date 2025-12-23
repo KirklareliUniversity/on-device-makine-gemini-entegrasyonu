@@ -166,3 +166,5 @@ Flutter tabanlı mobil uygulamalar için güçlü, dengeli ve sürdürülebilir
 yapay zekâ çözümleri üretilebileceğini göstermektedir.
 
 # not:JavaScript bu projede aktif bir iş mantığı için kullanılmamıştır.Tüm kritik işlemler (kimlik doğrulama, veritabanı işlemleri ve Gemini API çağrıları) sunucu tarafında PHP ile gerçekleştirilmiştir.Bu tercih, API anahtarlarının istemci tarafına sızmasını önlemek ve daha güvenli bir mimari oluşturmak amacıyla yapılmıştır.
+
+- **Ceren Yalnız**
